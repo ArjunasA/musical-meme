@@ -1,0 +1,79 @@
+body {
+  margin: 0px;
+  margin-top: 0px;
+  background-color: rgb(204, 249, 214);
+}
+
+#header {
+  padding-left: 25%;
+  height: 40px;
+  width: 100%;
+}
+#heading {
+  font-family: "monospace";
+  font-size: 40px;
+  text-align: center;
+  color: rgb(47, 81, 175);
+}
+
+#pic {
+  border-radius: 3px;
+  width: 100%;
+  height: auto;
+}
+#left {
+  margin-left: 3px;
+  margin-top: 3px;
+  width: 50%;
+  border-radius: 5px;
+  background-color: rgb(33, 236, 164);
+  vertical-align: middle;
+  display: inline-block;
+}
+#text {
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+#fight_against_drugs {
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+#and {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+#right {
+  vertical-align: top;
+  display: inline-block;
+}
+#pharse {
+  font-size: 50px;
+  color: rgb(150, 193, 250);
+  font-family: "Times New Roman", Times, serif;
+}
+.image {
+  border-radius: 8px;
+}
+.image:hover {
+  box-shadow: 0 0 0 5px rgba(114, 177, 248, 0.685);
+  transition-property: all;
+  transition-duration: 200ms;
+  transition-timing-function: ease-out;
+  transition-delay: 0s;
+}
+#img_div {
+  margin-left: 10px;
+  vertical-align: top;
+  display: inline-block;
+}
+#img2_div {
+  margin-left: 10px;
+  vertical-align: top;
+  display: inline-block;
+}
